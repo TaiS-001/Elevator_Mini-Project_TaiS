@@ -6,5 +6,5 @@ void setup() {
 }
 
 void loop() {
-  // Your code here
+  Serial.println(":)"); //:)
 }
